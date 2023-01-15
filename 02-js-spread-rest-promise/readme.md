@@ -1,4 +1,4 @@
 
 # How to run 03-copying-reference-types.js
 
-* npm install loadash (https://www.npmjs.com/package/lodash)
+* npm install - This will install the loadash dependency (https://www.npmjs.com/package/lodash)
